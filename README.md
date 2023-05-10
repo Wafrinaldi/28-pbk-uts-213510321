@@ -10,3 +10,10 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## file
 
 Test.vue& style2.css
+
+## Update
+
+menggunakan vue router
+menambahkan folder router dengan file index.js sebagai router
+menggunakan file awal App.vue & Style.css
+menambahkan folder src yang berisi single page Home, About dan projek sebelumnya yaitu Todo List
